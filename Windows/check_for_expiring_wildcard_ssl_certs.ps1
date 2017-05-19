@@ -16,6 +16,8 @@
 # Argument 1: Should be how many days you want to check - i.e. will report any that expire within that number of days
 # Argument 2: Should be "Yes" if you want it to automatically generate a CSR for expiring certs
 #
+# Note: This only works with Windows Server 2012 and higher.
+#
 ##################################################
 
 # What is your domain name?
